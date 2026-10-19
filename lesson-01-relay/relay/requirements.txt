@@ -1,0 +1,2 @@
+# Day 01 uses only the Python 3.12 standard library.
+# Later lessons add pinned packages here.

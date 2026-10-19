@@ -1,0 +1,29 @@
+# Virtualenv and Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Local env and secrets
+.env
+.env.local
+
+# Runtime / generated
+.run/
+.scoreboard/
+data/
+*.log
+
+# Lesson assets (not required for run)
+diagrams/
+docs/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
