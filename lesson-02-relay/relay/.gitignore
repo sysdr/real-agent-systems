@@ -1,0 +1,5 @@
+.venv/
+.run/
+.scoreboard/
+data/*.db
+__pycache__/

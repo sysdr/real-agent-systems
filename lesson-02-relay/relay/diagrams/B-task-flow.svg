@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 908 340" width="100%" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<defs><filter id="sh" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.18"/></filter>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5B6B7B"/></marker>
+<marker id="arg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4FA36B"/></marker>
+<marker id="aro" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E08A3C"/></marker>
+<style>.b{fill:#DCEBFA;stroke:#4A86C5}.g{fill:#DDF2E3;stroke:#4FA36B}.o{fill:#FDE8D3;stroke:#E08A3C}.b,.g,.o{stroke-width:2;filter:url(#sh)}.f{fill:#F4F8FC;stroke:#9DB9D8;stroke-width:1.6;stroke-dasharray:6 5}text{fill:#1F2D3D;text-anchor:middle;dominant-baseline:middle}.t{font-weight:700}.l{stroke:#5B6B7B;stroke-width:2;fill:none;stroke-linecap:round;marker-end:url(#ar)}.lg{stroke:#4FA36B;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#arg)}.lo{stroke:#E08A3C;stroke-width:2.2;fill:none;stroke-linecap:round;marker-end:url(#aro)}.ic{filter:url(#sh)}</style></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g transform="translate(24,115)"><rect width="140" height="70" rx="14" class="b" /><text x="70.0" y="35.0" font-size="14" class="t">Reset</text></g>
+<g transform="translate(30,115)" class="ic"><circle r="12" fill="#4A86C5"/><text x="0" y="1" font-size="13" font-weight="700" style="fill:#fff">1</text></g>
+<path class="l" d="M166,150 C176,140 194,140 206,150"/>
+<g transform="translate(204,115)"><rect width="140" height="70" rx="14" class="b" /><text x="70.0" y="35.0" font-size="14" class="t">Fetch ticket</text></g>
+<g transform="translate(210,115)" class="ic"><circle r="12" fill="#4A86C5"/><text x="0" y="1" font-size="13" font-weight="700" style="fill:#fff">2</text></g>
+<path class="l" d="M346,150 C356,140 374,140 386,150"/>
+<g transform="translate(384,115)"><rect width="140" height="70" rx="14" class="o" /><text x="70.0" y="35.0" font-size="14" class="t">Agent</text></g>
+<g transform="translate(390,115)" class="ic"><circle r="12" fill="#4A86C5"/><text x="0" y="1" font-size="13" font-weight="700" style="fill:#fff">3</text></g>
+<path class="l" d="M526,150 C536,140 554,140 566,150"/>
+<g transform="translate(564,115)"><rect width="140" height="70" rx="14" class="g" /><text x="70.0" y="35.0" font-size="14" class="t">Grade outcome</text></g>
+<g transform="translate(570,115)" class="ic"><circle r="12" fill="#4A86C5"/><text x="0" y="1" font-size="13" font-weight="700" style="fill:#fff">4</text></g>
+<path class="l" d="M706,150 C716,140 734,140 746,150"/>
+<g transform="translate(744,115)"><rect width="140" height="70" rx="14" class="b" /><text x="70.0" y="35.0" font-size="14" class="t">Scoreboard</text></g>
+<g transform="translate(750,115)" class="ic"><circle r="12" fill="#4A86C5"/><text x="0" y="1" font-size="13" font-weight="700" style="fill:#fff">5</text></g>
+<g transform="translate(414,248)" class="ic"><ellipse cx="40" cy="8" rx="40" ry="9" fill="#DDF2E3" stroke="#4FA36B" stroke-width="2"/><path d="M0,8 L0,46 C0,58 80,58 80,46 L80,8" fill="#DDF2E3" stroke="#4FA36B" stroke-width="2"/><path d="M0,8 C0,20 80,20 80,8" fill="none" stroke="#4FA36B" stroke-width="2"/></g>
+<path class="lo" d="M412,276 C330,276 274,255 274,189"/>
+<g transform="translate(296,222) scale(0.9)" class="ic"><path d="M10,0 L0,18 L8,18 L4,34 L18,12 L10,12 L14,0 Z" fill="#FDE8D3" stroke="#E08A3C" stroke-width="2" stroke-linejoin="round"/></g>
+<path class="lg" d="M496,276 C580,276 634,255 634,189"/>
+<g transform="translate(586,220) scale(0.8)" class="ic"><path d="M14,0 L28,5 L28,16 C28,26 21,32 14,35 C7,32 0,26 0,16 L0,5 Z" fill="#DDF2E3" stroke="#4FA36B" stroke-width="2" stroke-linejoin="round"/><path d="M8,17 L12.5,22 L20.5,12" fill="none" stroke="#4FA36B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

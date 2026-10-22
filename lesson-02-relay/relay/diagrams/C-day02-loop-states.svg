@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="100%" font-family="system-ui, sans-serif">
+<defs><filter id="sh"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.18"/></filter>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5B6B7B"/></marker>
+<style>.b{fill:#DCEBFA;stroke:#4A86C5}.g{fill:#DDF2E3;stroke:#4FA36B}.o{fill:#FDE8D3;stroke:#E08A3C}.b,.g,.o{stroke-width:2;filter:url(#sh)}text{fill:#1F2D3D;text-anchor:middle;dominant-baseline:middle}.l{stroke:#5B6B7B;stroke-width:2;fill:none;stroke-linecap:round;marker-end:url(#ar)}</style></defs>
+<rect width="100%" height="100%" fill="#fff"/>
+<defs><marker id="aro" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E08A3C"/></marker>
+<marker id="arg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4FA36B"/></marker>
+<style>.lo{stroke:#E08A3C;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#aro)}.lg{stroke:#4FA36B;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#arg)}.ghost{fill:#F4F8FC;stroke:#9DB9D8;stroke-width:1.6;stroke-dasharray:6 5}.bd{fill:#1F2D3D}.bt{fill:#fff;font-size:13px;font-weight:700}</style></defs>
+<g transform="translate(44,105)"><circle r="8" class="bd"/></g>
+<g transform="translate(90,70)"><rect width="180" height="70" rx="14" class="b"/><text x="90.0" y="35.0" font-size="16" font-weight="700">Calling model</text></g>
+<g transform="translate(490,70)"><rect width="180" height="70" rx="14" class="b"/><text x="90.0" y="35.0" font-size="16" font-weight="700">Running tool</text></g>
+<g transform="translate(40,270)"><rect width="160" height="64" rx="14" class="g"/><text x="80.0" y="32.0" font-size="16" font-weight="700">Done</text></g>
+<g transform="translate(300,270)"><rect width="160" height="64" rx="14" class="o"/><text x="80.0" y="32.0" font-size="16" font-weight="700">Capped</text></g>
+<g transform="translate(560,270)"><rect width="160" height="64" rx="14" class="o"/><text x="80.0" y="32.0" font-size="16" font-weight="700">Tool failed</text></g>
+<g transform="translate(54,105)"><path class="l" d="M0,0 C17,0 17,0 34,0"/></g>
+<g transform="translate(272,92)"><path class="l" d="M0,0 C108,-30 108,-30 216,0"/></g>
+<g transform="translate(380,70)"><circle r="11" class="bd"/><text class="bt" y="1">1</text></g>
+<g transform="translate(488,120)"><path class="l" d="M0,0 C-108,30 -108,30 -216,0"/></g>
+<g transform="translate(380,142)"><circle r="11" class="bd"/><text class="bt" y="1">2</text></g>
+<g transform="translate(140,142)"><path class="l" d="M0,0 C0,63 -20,63 -20,126"/></g>
+<g transform="translate(130,205)"><circle r="11" class="bd"/><text class="bt" y="1">3</text></g>
+<g transform="translate(230,142)"><path class="l" d="M0,0 C0,63 120,63 120,126"/></g>
+<g transform="translate(290,205)"><circle r="11" class="bd"/><text class="bt" y="1">4</text></g>
+<g transform="translate(600,142)"><path class="l" d="M0,0 C0,63 30,63 30,126"/></g>
+<g transform="translate(615,205)"><circle r="11" class="bd"/><text class="bt" y="1">5</text></g>
+</svg>

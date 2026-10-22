@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 370" width="100%" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<defs><filter id="sh" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.18"/></filter>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5B6B7B"/></marker>
+<marker id="arg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4FA36B"/></marker>
+<marker id="aro" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E08A3C"/></marker>
+<style>.b{fill:#DCEBFA;stroke:#4A86C5}.g{fill:#DDF2E3;stroke:#4FA36B}.o{fill:#FDE8D3;stroke:#E08A3C}.b,.g,.o{stroke-width:2;filter:url(#sh)}.f{fill:#F4F8FC;stroke:#9DB9D8;stroke-width:1.6;stroke-dasharray:6 5}text{fill:#1F2D3D;text-anchor:middle;dominant-baseline:middle}.t{font-weight:700}.l{stroke:#5B6B7B;stroke-width:2;fill:none;stroke-linecap:round;marker-end:url(#ar)}.lg{stroke:#4FA36B;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#arg)}.lo{stroke:#E08A3C;stroke-width:2.2;fill:none;stroke-linecap:round;marker-end:url(#aro)}.ic{filter:url(#sh)}</style></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g transform="translate(40,150)"><rect width="150" height="70" rx="14" class="b" /><text x="75.0" y="35.0" font-size="16" class="t">Run task</text></g>
+<g transform="translate(330,40)"><rect width="150" height="64" rx="14" class="g" /><text x="75.0" y="32.0" font-size="16" class="t">Passed</text></g>
+<g transform="translate(330,158)"><rect width="150" height="64" rx="14" class="o" /><text x="75.0" y="32.0" font-size="16" class="t">Failed</text></g>
+<g transform="translate(330,276)"><rect width="150" height="64" rx="14" class="b" style="stroke-dasharray:7 5"/><text x="75.0" y="32.0" font-size="16" class="t">Infra error</text></g>
+<g transform="translate(570,158)"><rect width="210" height="64" rx="14" class="o" style="stroke-width:3"/><text x="105.0" y="32.0" font-size="15" class="t">Claimed, not done</text></g>
+<path class="lg" d="M192,170 C250,120 280,78 327,72" style="stroke-dasharray:none"/>
+<path class="l" d="M192,187 C250,192 290,192 327,190"/>
+<path class="l" d="M192,205 C250,262 282,304 327,308"/>
+<path class="lo" d="M482,190 C510,184 540,184 567,190"/>
+<g transform="translate(510,72)" class="ic"><circle r="13" fill="#DDF2E3" stroke="#4FA36B" stroke-width="2"/><path d="M-6,0 L-1.5,5 L6.5,-5" fill="none" stroke="#4FA36B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(470,158)" class="ic"><circle r="13" fill="#FDE8D3" stroke="#E08A3C" stroke-width="2"/><path d="M-5,-5 L5,5 M5,-5 L-5,5" stroke="#E08A3C" stroke-width="2.4" stroke-linecap="round"/></g>
+<g transform="translate(232,244) scale(0.85)" class="ic"><path d="M10,0 L0,18 L8,18 L4,34 L18,12 L10,12 L14,0 Z" fill="#FDE8D3" stroke="#E08A3C" stroke-width="2" stroke-linejoin="round"/></g>
+<g transform="translate(648,104)" class="ic"><path d="M0,10 C0,2 6,0 14,0 L40,0 C48,0 54,2 54,10 L54,22 C54,30 48,32 40,32 L20,32 L10,42 L12,32 C4,32 0,30 0,22 Z" fill="#FDE8D3" stroke="#E08A3C" stroke-width="2" stroke-linejoin="round"/><circle cx="17" cy="16" r="2.5" fill="#E08A3C"/><circle cx="27" cy="16" r="2.5" fill="#E08A3C"/><circle cx="37" cy="16" r="2.5" fill="#E08A3C"/></g>
+</svg>
