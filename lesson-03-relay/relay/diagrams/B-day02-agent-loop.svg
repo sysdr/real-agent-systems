@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 280" width="100%" font-family="system-ui, sans-serif">
+<defs><filter id="sh"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.18"/></filter>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5B6B7B"/></marker>
+<style>.b{fill:#DCEBFA;stroke:#4A86C5}.g{fill:#DDF2E3;stroke:#4FA36B}.o{fill:#FDE8D3;stroke:#E08A3C}.b,.g,.o{stroke-width:2;filter:url(#sh)}text{fill:#1F2D3D;text-anchor:middle;dominant-baseline:middle}.l{stroke:#5B6B7B;stroke-width:2;fill:none;stroke-linecap:round;marker-end:url(#ar)}</style></defs>
+<rect width="100%" height="100%" fill="#fff"/>
+<defs><marker id="aro" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E08A3C"/></marker>
+<marker id="arg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4FA36B"/></marker>
+<style>.lo{stroke:#E08A3C;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#aro)}.lg{stroke:#4FA36B;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#arg)}.ghost{fill:#F4F8FC;stroke:#9DB9D8;stroke-width:1.6;stroke-dasharray:6 5}.bd{fill:#1F2D3D}.bt{fill:#fff;font-size:13px;font-weight:700}</style></defs>
+<g transform="translate(30,50)"><rect width="120" height="70" rx="14" class="b"/><text x="60.0" y="35.0" font-size="16" font-weight="700">Ticket</text></g>
+<g transform="translate(215,50)"><rect width="140" height="70" rx="14" class="o"/><text x="70.0" y="35.0" font-size="16" font-weight="700">Caps check</text></g>
+<g transform="translate(420,50)"><rect width="140" height="70" rx="14" class="o"/><text x="70.0" y="35.0" font-size="16" font-weight="700">Model call</text></g>
+<g transform="translate(610,50)"><rect width="120" height="70" rx="14" class="g"/><text x="60.0" y="35.0" font-size="16" font-weight="700">Decision</text></g>
+<g transform="translate(310,180)"><rect width="160" height="60" rx="14" class="b"/><text x="80.0" y="30.0" font-size="16" font-weight="700">Run tool</text></g>
+<g transform="translate(152,85)"><path class="l" d="M0,0 C30,0 30,0 60,0"/></g>
+<g transform="translate(182,85)"><circle r="11" class="bd"/><text class="bt" y="1">1</text></g>
+<g transform="translate(357,85)"><path class="l" d="M0,0 C30,0 30,0 60,0"/></g>
+<g transform="translate(387,85)"><circle r="11" class="bd"/><text class="bt" y="1">2</text></g>
+<g transform="translate(510,122)"><path class="l" d="M0,0 C0,28 -60,28 -60,56"/></g>
+<g transform="translate(480,150)"><circle r="11" class="bd"/><text class="bt" y="1">3</text></g>
+<g transform="translate(330,178)"><path class="l" d="M0,0 C0,-28 -55,-28 -55,-56"/></g>
+<g transform="translate(302,150)"><circle r="11" class="bd"/><text class="bt" y="1">4</text></g>
+<g transform="translate(562,85)"><path class="l" d="M0,0 C22,0 22,0 45,0"/></g>
+<g transform="translate(584,85)"><circle r="11" class="bd"/><text class="bt" y="1">5</text></g>
+</svg>

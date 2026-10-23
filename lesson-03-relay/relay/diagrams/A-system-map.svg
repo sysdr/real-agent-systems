@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="100%" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<defs><filter id="sh" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.18"/></filter>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5B6B7B"/></marker>
+<marker id="arg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4FA36B"/></marker>
+<marker id="aro" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E08A3C"/></marker>
+<style>.b{fill:#DCEBFA;stroke:#4A86C5}.g{fill:#DDF2E3;stroke:#4FA36B}.o{fill:#FDE8D3;stroke:#E08A3C}.b,.g,.o{stroke-width:2;filter:url(#sh)}.f{fill:#F4F8FC;stroke:#9DB9D8;stroke-width:1.6;stroke-dasharray:6 5}text{fill:#1F2D3D;text-anchor:middle;dominant-baseline:middle}.t{font-weight:700}.l{stroke:#5B6B7B;stroke-width:2;fill:none;stroke-linecap:round;marker-end:url(#ar)}.lg{stroke:#4FA36B;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#arg)}.lo{stroke:#E08A3C;stroke-width:2.2;fill:none;stroke-linecap:round;marker-end:url(#aro)}.ic{filter:url(#sh)}</style></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g transform="translate(225,24)"><rect width="100" height="48" rx="14" class="f" /></g>
+<g transform="translate(275,48)"><path d="M-8,0 L8,0 M0,-8 L0,8" stroke="#9DB9D8" stroke-width="2.4" stroke-linecap="round"/></g>
+<path d="M275,74 C275,100 380,104 380,128" stroke="#9DB9D8" stroke-width="1.6" stroke-dasharray="5 5" fill="none"/>
+<g transform="translate(330,24)"><rect width="100" height="48" rx="14" class="f" /></g>
+<g transform="translate(380,48)"><path d="M-8,0 L8,0 M0,-8 L0,8" stroke="#9DB9D8" stroke-width="2.4" stroke-linecap="round"/></g>
+<path d="M380,74 C380,100 380,104 380,128" stroke="#9DB9D8" stroke-width="1.6" stroke-dasharray="5 5" fill="none"/>
+<g transform="translate(435,24)"><rect width="100" height="48" rx="14" class="f" /></g>
+<g transform="translate(485,48)"><path d="M-8,0 L8,0 M0,-8 L0,8" stroke="#9DB9D8" stroke-width="2.4" stroke-linecap="round"/></g>
+<path d="M485,74 C485,100 380,104 380,128" stroke="#9DB9D8" stroke-width="1.6" stroke-dasharray="5 5" fill="none"/>
+<g transform="translate(40,140)"><rect width="180" height="80" rx="14" class="b" /><text x="90.0" y="40.0" font-size="16" class="t">Relay-Bench</text></g>
+<g transform="translate(290,130)"><rect width="180" height="100" rx="14" class="o" style="stroke-width:3.2"/><text x="90.0" y="50.0" font-size="17" class="t">Relay agent</text></g>
+<g transform="translate(540,140)"><rect width="180" height="80" rx="14" class="g" /><text x="90.0" y="40.0" font-size="16" class="t">Northwind</text></g>
+<g transform="translate(290,290)"><rect width="180" height="64" rx="14" class="b" /><text x="90.0" y="32.0" font-size="16" class="t">Scoreboard</text></g>
+<path class="l" d="M222,180 C245,170 265,170 287,180"/>
+<path class="l" d="M538,180 C515,170 495,170 473,180"/>
+<path class="l" d="M380,232 C385,250 375,268 380,287"/>
+<path class="lg" d="M630,222 C630,300 560,322 474,322"/>
+<path class="l" d="M130,222 C130,300 200,322 286,322"/>
+<g transform="translate(150,104)"><text font-size="15" fill="#4A5B6C">today</text></g>
+<path class="lo" d="M178,108 C225,104 262,112 287,132"/>
+</svg>

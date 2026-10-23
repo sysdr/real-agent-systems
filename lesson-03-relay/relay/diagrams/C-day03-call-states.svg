@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="100%" font-family="system-ui, sans-serif">
+<defs><filter id="sh"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.18"/></filter>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5B6B7B"/></marker>
+<style>.b{fill:#DCEBFA;stroke:#4A86C5}.g{fill:#DDF2E3;stroke:#4FA36B}.o{fill:#FDE8D3;stroke:#E08A3C}.b,.g,.o{stroke-width:2;filter:url(#sh)}text{fill:#1F2D3D;text-anchor:middle;dominant-baseline:middle}.l{stroke:#5B6B7B;stroke-width:2;fill:none;stroke-linecap:round;marker-end:url(#ar)}</style></defs>
+<rect width="100%" height="100%" fill="#fff"/>
+<defs><marker id="aro" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E08A3C"/></marker>
+<marker id="arg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4FA36B"/></marker>
+<style>.lo{stroke:#E08A3C;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#aro)}.lg{stroke:#4FA36B;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#arg)}.ghost{fill:#F4F8FC;stroke:#9DB9D8;stroke-width:1.6;stroke-dasharray:6 5}.bd{fill:#1F2D3D}.bt{fill:#fff;font-size:13px;font-weight:700}</style></defs>
+<g transform="translate(24,24)"><rect width="150" height="64" rx="14" class="o"/><text x="75.0" y="32.0" font-size="16" font-weight="700">Invalid args</text></g>
+<g transform="translate(24,160)"><rect width="150" height="72" rx="14" class="b"/><text x="75.0" y="36.0" font-size="16" font-weight="700">Proposed</text></g>
+<g transform="translate(330,60)"><rect width="150" height="72" rx="14" class="g"/><text x="75.0" y="36.0" font-size="16" font-weight="700">Succeeded</text></g>
+<g transform="translate(330,250)"><rect width="150" height="72" rx="14" class="b"/><text x="75.0" y="36.0" font-size="16" font-weight="700">Retrying</text></g>
+<g transform="translate(626,250)"><rect width="150" height="72" rx="14" class="o"/><text x="75.0" y="36.0" font-size="16" font-weight="700">Gave up</text></g>
+<g transform="translate(176,186)"><path class="l" d="M0,0 C76.0,0 76.0,-78 152,-78"/></g>
+<g transform="translate(70,158)"><path class="l" d="M0,0 C0,-34.0 0,-34.0 0,-68"/></g>
+<g transform="translate(128,90)"><path class="l" d="M0,0 C0,34.0 0,34.0 0,68"/></g>
+<g transform="translate(176,210)"><path class="l" d="M0,0 C76.0,0 76.0,60 152,60"/></g>
+<g transform="translate(405,248)"><path class="l" d="M0,0 C0,-57.0 0,-57.0 0,-114"/></g>
+<g transform="translate(440,324)"><path class="l" d="M0,0 C30,44 -100,44 -70,2"/></g>
+<g transform="translate(482,286)"><path class="l" d="M0,0 C71.0,0 71.0,0 142,0"/></g>
+<g transform="translate(250,130)"><circle r="11" class="bd"/><text class="bt" y="1">1</text></g>
+<g transform="translate(40,124)"><circle r="11" class="bd"/><text class="bt" y="1">2</text></g>
+<g transform="translate(250,246)"><circle r="11" class="bd"/><text class="bt" y="1">3</text></g>
+<g transform="translate(420,190)"><circle r="11" class="bd"/><text class="bt" y="1">4</text></g>
+<g transform="translate(455,352)"><circle r="11" class="bd"/><text class="bt" y="1">5</text></g>
+<g transform="translate(553,270)"><circle r="11" class="bd"/><text class="bt" y="1">6</text></g>
+</svg>

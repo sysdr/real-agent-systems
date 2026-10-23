@@ -1,0 +1,13 @@
+services:
+  sim:
+    image: python:3.12-slim
+    working_dir: /app
+    command: python src/northwind/server.py --host 0.0.0.0 --port 8701 --db data/northwind.db
+    volumes:
+      - ./:/app
+    ports:
+      - "${NORTHWIND_PORT:-8701}:8701"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8701/health')"]
+      interval: 5s
+      retries: 10

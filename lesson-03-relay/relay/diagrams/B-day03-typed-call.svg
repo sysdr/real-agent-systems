@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="100%" font-family="system-ui, sans-serif">
+<defs><filter id="sh"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.18"/></filter>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5B6B7B"/></marker>
+<style>.b{fill:#DCEBFA;stroke:#4A86C5}.g{fill:#DDF2E3;stroke:#4FA36B}.o{fill:#FDE8D3;stroke:#E08A3C}.b,.g,.o{stroke-width:2;filter:url(#sh)}text{fill:#1F2D3D;text-anchor:middle;dominant-baseline:middle}.l{stroke:#5B6B7B;stroke-width:2;fill:none;stroke-linecap:round;marker-end:url(#ar)}</style></defs>
+<rect width="100%" height="100%" fill="#fff"/>
+<defs><marker id="aro" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E08A3C"/></marker>
+<marker id="arg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4FA36B"/></marker>
+<style>.lo{stroke:#E08A3C;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#aro)}.lg{stroke:#4FA36B;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#arg)}.ghost{fill:#F4F8FC;stroke:#9DB9D8;stroke-width:1.6;stroke-dasharray:6 5}.bd{fill:#1F2D3D}.bt{fill:#fff;font-size:13px;font-weight:700}</style></defs>
+<g transform="translate(24,70)"><rect width="150" height="64" rx="14" class="o"/><text x="75.0" y="32.0" font-size="16" font-weight="700">Model call</text></g>
+<g transform="translate(218,70)"><rect width="170" height="64" rx="14" class="b"/><text x="85.0" y="32.0" font-size="16" font-weight="700">Check arguments</text></g>
+<g transform="translate(432,70)"><rect width="150" height="64" rx="14" class="g"/><text x="75.0" y="32.0" font-size="16" font-weight="700">Run tool</text></g>
+<g transform="translate(626,70)"><rect width="150" height="64" rx="14" class="b"/><text x="75.0" y="32.0" font-size="16" font-weight="700">Result</text></g>
+<g transform="translate(208,222)"><rect width="190" height="64" rx="14" class="o"/><text x="95.0" y="32.0" font-size="16" font-weight="700">Typed error</text></g>
+<g transform="translate(176,102)"><path class="l" d="M0,0 C20.0,0 20.0,0 40,0"/></g>
+<g transform="translate(390,102)"><path class="l" d="M0,0 C20.0,0 20.0,0 40,0"/></g>
+<g transform="translate(584,102)"><path class="l" d="M0,0 C20.0,0 20.0,0 40,0"/></g>
+<g transform="translate(472,68)"><path class="l" d="M0,0 C-14,-46 74,-46 60,-2"/></g>
+<g transform="translate(303,136)"><path class="l" d="M0,0 C0,42.0 0,42.0 0,84"/></g>
+<g transform="translate(206,254)"><path class="l" d="M0,0 C-70,0 -76,-70 -76,-118"/></g>
+<g transform="translate(701,136)"><path class="l" d="M0,0 C0,246 -633,246 -633,0"/></g>
+<g transform="translate(196,80)"><circle r="11" class="bd"/><text class="bt" y="1">1</text></g>
+<g transform="translate(218,70)"><circle r="11" class="bd"/><text class="bt" y="1">2</text></g>
+<g transform="translate(432,70)"><circle r="11" class="bd"/><text class="bt" y="1">3</text></g>
+<g transform="translate(323,176)"><circle r="11" class="bd"/><text class="bt" y="1">4</text></g>
+<g transform="translate(626,70)"><circle r="11" class="bd"/><text class="bt" y="1">5</text></g>
+</svg>

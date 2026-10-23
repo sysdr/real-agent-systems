@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" font-family="system-ui, sans-serif">
+<defs><filter id="sh"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.18"/></filter>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5B6B7B"/></marker>
+<style>.b{fill:#DCEBFA;stroke:#4A86C5}.g{fill:#DDF2E3;stroke:#4FA36B}.o{fill:#FDE8D3;stroke:#E08A3C}.b,.g,.o{stroke-width:2;filter:url(#sh)}text{fill:#1F2D3D;text-anchor:middle;dominant-baseline:middle}.l{stroke:#5B6B7B;stroke-width:2;fill:none;stroke-linecap:round;marker-end:url(#ar)}</style></defs>
+<rect width="100%" height="100%" fill="#fff"/>
+<defs><marker id="aro" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E08A3C"/></marker>
+<marker id="arg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4FA36B"/></marker>
+<style>.lo{stroke:#E08A3C;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#aro)}.lg{stroke:#4FA36B;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#arg)}.ghost{fill:#F4F8FC;stroke:#9DB9D8;stroke-width:1.6;stroke-dasharray:6 5}.bd{fill:#1F2D3D}.bt{fill:#fff;font-size:13px;font-weight:700}</style></defs>
+<g transform="translate(470,24)"><rect width="110" height="48" rx="14" class="ghost"/><path d="M47.0,24.0 L63.0,24.0 M55.0,16.0 L55.0,32.0" stroke="#9DB9D8" stroke-width="2.4" stroke-linecap="round" fill="none"/></g>
+<g transform="translate(640,24)"><rect width="110" height="48" rx="14" class="ghost"/><path d="M47.0,24.0 L63.0,24.0 M55.0,16.0 L55.0,32.0" stroke="#9DB9D8" stroke-width="2.4" stroke-linecap="round" fill="none"/></g>
+<g transform="translate(242,24)"><rect width="170" height="56" rx="14" class="b"/><text x="85.0" y="28.0" font-size="16" font-weight="700">Model adapter</text></g>
+<g transform="translate(24,170)"><rect width="192" height="80" rx="14" class="b"/><text x="96.0" y="40.0" font-size="15" font-weight="700">Bench + scoreboard</text></g>
+<g transform="translate(252,160)"><rect width="150" height="100" rx="14" class="b"/><text x="75.0" y="50.0" font-size="17" font-weight="700">Agent loop</text></g>
+<g transform="translate(438,160)"><rect width="160" height="100" rx="14" class="o" style="stroke-width:3.2"/><text x="80.0" y="50.0" font-size="17" font-weight="700">Typed tools</text></g>
+<g transform="translate(634,170)"><rect width="142" height="80" rx="14" class="g"/><text x="71.0" y="40.0" font-size="16" font-weight="700">Northwind</text></g>
+<g transform="translate(327,158)"><path class="l" d="M0,0 C0,-38.0 0,-38.0 0,-76"/></g>
+<g transform="translate(218,210)"><path class="l" d="M0,0 C16.0,0 16.0,0 32,0"/></g>
+<g transform="translate(404,210)"><path class="l" d="M0,0 C16.0,0 16.0,0 32,0"/></g>
+<g transform="translate(600,210)"><path class="l" d="M0,0 C16.0,0 16.0,0 32,0"/></g>
+<g transform="translate(705,252)"><path class="lg" d="M0,0 C0,110 -585,110 -585,0"/></g>
+<g transform="translate(452,176)"><circle r="11" class="bd"/><text class="bt" y="1">3</text></g>
+</svg>

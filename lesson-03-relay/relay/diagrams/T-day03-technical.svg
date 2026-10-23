@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 600" width="100%" font-family="system-ui, sans-serif">
+<defs><filter id="sh"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.18"/></filter>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5B6B7B"/></marker>
+<style>.b{fill:#DCEBFA;stroke:#4A86C5}.g{fill:#DDF2E3;stroke:#4FA36B}.o{fill:#FDE8D3;stroke:#E08A3C}.b,.g,.o{stroke-width:2;filter:url(#sh)}text{fill:#1F2D3D;text-anchor:middle;dominant-baseline:middle}.l{stroke:#5B6B7B;stroke-width:2;fill:none;stroke-linecap:round;marker-end:url(#ar)}</style></defs>
+<rect width="100%" height="100%" fill="#fff"/>
+<defs><marker id="aro" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E08A3C"/></marker>
+<marker id="arg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4FA36B"/></marker>
+<style>.lo{stroke:#E08A3C;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#aro)}.lg{stroke:#4FA36B;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#arg)}.ghost{fill:#F4F8FC;stroke:#9DB9D8;stroke-width:1.6;stroke-dasharray:6 5}.bd{fill:#1F2D3D}.bt{fill:#fff;font-size:13px;font-weight:700}</style></defs>
+<g transform="translate(24,280)"><rect width="140" height="72" rx="14" class="b"/><text x="70.0" y="36.0" font-size="16" font-weight="700">Runner</text></g>
+<g transform="translate(24,150)"><rect width="140" height="56" rx="14" class="b"/><text x="70.0" y="28.0" font-size="15" font-weight="700">Scoreboard</text></g>
+<g transform="translate(214,280)"><rect width="150" height="72" rx="14" class="b"/><text x="75.0" y="36.0" font-size="16" font-weight="700">Agent loop</text></g>
+<g transform="translate(214,150)"><rect width="150" height="56" rx="14" class="o"/><text x="75.0" y="28.0" font-size="15" font-weight="700">Arg faults</text></g>
+<g transform="translate(214,40)"><rect width="150" height="56" rx="14" class="b"/><text x="75.0" y="28.0" font-size="14" font-weight="700">Model (replay)</text></g>
+<g transform="translate(414,280)"><rect width="150" height="72" rx="14" class="o" style="stroke-width:3.2"/><text x="75.0" y="36.0" font-size="16" font-weight="700">Validator</text></g>
+<g transform="translate(414,150)"><rect width="150" height="56" rx="14" class="o"/><text x="75.0" y="28.0" font-size="15" font-weight="700">Typed error</text></g>
+<g transform="translate(614,280)"><rect width="172" height="72" rx="14" class="o" style="stroke-width:3.2"/><text x="86.0" y="36.0" font-size="14" font-weight="700">Retry + backoff</text></g>
+<g transform="translate(614,440)"><rect width="172" height="56" rx="14" class="o"/><text x="86.0" y="28.0" font-size="15" font-weight="700">Infra error</text></g>
+<g transform="translate(850,280)"><rect width="150" height="72" rx="14" class="g"/><text x="75.0" y="36.0" font-size="14" font-weight="700">Northwind API</text></g>
+<g transform="translate(830,150)"><rect width="186" height="56" rx="14" class="g"/><text x="93.0" y="28.0" font-size="14" font-weight="700">Fault switchboard</text></g>
+<g transform="translate(830,440)"><rect width="186" height="56" rx="14" class="g"/><text x="93.0" y="28.0" font-size="14" font-weight="700">Refunds + idem key</text></g>
+<g transform="translate(166,316)"><path class="l" d="M0,0 C23.0,0 23.0,0 46,0"/></g>
+<g transform="translate(94,278)"><path class="l" d="M0,0 C0,-35.0 0,-35.0 0,-70"/></g>
+<g transform="translate(289,278)"><path class="l" d="M0,0 C0,-35.0 0,-35.0 0,-70"/></g>
+<g transform="translate(289,148)"><path class="l" d="M0,0 C0,-25.0 0,-25.0 0,-50"/></g>
+<g transform="translate(366,316)"><path class="l" d="M0,0 C23.0,0 23.0,0 46,0"/></g>
+<g transform="translate(489,278)"><path class="l" d="M0,0 C0,-35.0 0,-35.0 0,-70"/></g>
+<g transform="translate(412,178)"><path class="l" d="M0,0 C-48,0 -62,60 -62,98"/></g>
+<g transform="translate(566,316)"><path class="l" d="M0,0 C23.0,0 23.0,0 46,0"/></g>
+<g transform="translate(670,278)"><path class="l" d="M0,0 C-14,-46 74,-46 60,-2"/></g>
+<g transform="translate(788,316)"><path class="l" d="M0,0 C30.0,0 30.0,0 60,0"/></g>
+<g transform="translate(925,208)"><path class="lo" d="M0,0 C0,35.0 0,35.0 0,70"/></g>
+<g transform="translate(925,354)"><path class="l" d="M0,0 C0,42.0 0,42.0 0,84"/></g>
+<g transform="translate(700,354)"><path class="lo" d="M0,0 C0,42.0 0,42.0 0,84"/></g>
+<g transform="translate(700,498)"><path class="lo" d="M0,0 C0,100 -606,100 -606,-144"/></g>
+<g transform="translate(190,300)"><circle r="11" class="bd"/><text class="bt" y="1">1</text></g>
+<g transform="translate(275,245)"><circle r="11" class="bd"/><text class="bt" y="1">2</text></g>
+<g transform="translate(389,300)"><circle r="11" class="bd"/><text class="bt" y="1">3</text></g>
+<g transform="translate(503,245)"><circle r="11" class="bd"/><text class="bt" y="1">4</text></g>
+<g transform="translate(590,300)"><circle r="11" class="bd"/><text class="bt" y="1">5</text></g>
+<g transform="translate(939,245)"><circle r="11" class="bd"/><text class="bt" y="1">6</text></g>
+<g transform="translate(714,395)"><circle r="11" class="bd"/><text class="bt" y="1">7</text></g>
+<g transform="translate(939,395)"><circle r="11" class="bd"/><text class="bt" y="1">8</text></g>
+</svg>

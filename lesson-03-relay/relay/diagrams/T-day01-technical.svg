@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 970 510" width="100%" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<defs><filter id="sh" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.18"/></filter>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5B6B7B"/></marker>
+<marker id="arg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4FA36B"/></marker>
+<marker id="aro" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E08A3C"/></marker>
+<style>.b{fill:#DCEBFA;stroke:#4A86C5}.g{fill:#DDF2E3;stroke:#4FA36B}.o{fill:#FDE8D3;stroke:#E08A3C}.b,.g,.o{stroke-width:2;filter:url(#sh)}.f{fill:#F4F8FC;stroke:#9DB9D8;stroke-width:1.6;stroke-dasharray:6 5}text{fill:#1F2D3D;text-anchor:middle;dominant-baseline:middle}.t{font-weight:700}.l{stroke:#5B6B7B;stroke-width:2;fill:none;stroke-linecap:round;marker-end:url(#ar)}.lg{stroke:#4FA36B;stroke-width:2;fill:none;stroke-linecap:round;stroke-dasharray:6 5;marker-end:url(#arg)}.lo{stroke:#E08A3C;stroke-width:2.2;fill:none;stroke-linecap:round;marker-end:url(#aro)}.ic{filter:url(#sh)}</style></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g transform="translate(30,30)"><rect width="180" height="54" rx="14" class="b" /><text x="90.0" y="27.0" font-size="15" class="t">start.sh</text></g>
+<g transform="translate(30,250)"><rect width="180" height="54" rx="14" class="b" /><text x="90.0" y="27.0" font-size="14" class="t">relay_bench.jsonl</text></g>
+<g transform="translate(270,240)"><rect width="180" height="74" rx="14" class="o" style="stroke-width:3"/><text x="90.0" y="37.0" font-size="16" class="t">Bench runner</text></g>
+<g transform="translate(520,20)"><rect width="420" height="225" rx="18" class="g" style="fill:#F1FAF3"/></g>
+<g transform="translate(730,44)"><text font-size="15" fill="#4A5B6C">Northwind :8701</text></g>
+<g transform="translate(540,66)"><rect width="180" height="56" rx="14" class="o" /><text x="90.0" y="28.0" font-size="14" class="t">Fault switchboard</text></g>
+<g transform="translate(740,66)"><rect width="180" height="56" rx="14" class="b" /><text x="90.0" y="28.0" font-size="14" class="t">/_reset /_refunds</text></g>
+<g transform="translate(620,160)"><rect width="200" height="60" rx="14" class="b" /><text x="100.0" y="30.0" font-size="15" class="t">SQLite world</text></g>
+<g transform="translate(270,420)"><rect width="180" height="60" rx="14" class="o" /><text x="90.0" y="30.0" font-size="15" class="t">Baseline agent</text></g>
+<g transform="translate(520,420)"><rect width="170" height="60" rx="14" class="b" /><text x="85.0" y="30.0" font-size="15" class="t">Provider</text></g>
+<g transform="translate(760,420)"><rect width="180" height="60" rx="14" class="b" /><text x="90.0" y="30.0" font-size="14" class="t">replay fixtures</text></g>
+<g transform="translate(520,290)"><rect width="170" height="56" rx="14" class="g" /><text x="85.0" y="28.0" font-size="15" class="t">Grader</text></g>
+<g transform="translate(760,290)"><rect width="180" height="56" rx="14" class="b" /><text x="90.0" y="28.0" font-size="14" class="t">history.jsonl</text></g>
+<path class="l" d="M212,57 C350,50 450,48 518,58"/>
+<path class="l" d="M120,86 C126,140 114,190 120,247"/>
+<path class="l" d="M212,277 L267,277"/>
+<path class="lo" d="M400,238 C430,160 500,110 537,96"/>
+<g transform="translate(446,120) scale(0.75)" class="ic"><path d="M10,0 L0,18 L8,18 L4,34 L18,12 L10,12 L14,0 Z" fill="#FDE8D3" stroke="#E08A3C" stroke-width="2" stroke-linejoin="round"/></g>
+<path class="lg" d="M452,268 C500,150 600,142 700,142 C760,142 800,136 820,126"/>
+<g transform="translate(470,172) scale(0.65)" class="ic"><path d="M14,0 L28,5 L28,16 C28,26 21,32 14,35 C7,32 0,26 0,16 L0,5 Z" fill="#DDF2E3" stroke="#4FA36B" stroke-width="2" stroke-linejoin="round"/><path d="M8,17 L12.5,22 L20.5,12" fill="none" stroke="#4FA36B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path class="l" d="M630,124 C640,140 660,150 678,158"/>
+<path class="l" d="M830,124 C820,140 800,150 782,158"/>
+<path class="l" d="M360,316 L360,417"/>
+<path class="l" d="M452,450 L517,450"/>
+<path class="l" d="M692,450 L757,450"/>
+<path class="l" d="M452,300 C480,310 500,318 517,318"/>
+<path class="l" d="M692,318 L757,318"/>
+<g transform="translate(36,30)" class="ic"><circle r="12" fill="#4A86C5"/><text x="0" y="1" font-size="13" font-weight="700" style="fill:#fff">1</text></g>
+<g transform="translate(276,240)" class="ic"><circle r="12" fill="#4A86C5"/><text x="0" y="1" font-size="13" font-weight="700" style="fill:#fff">2</text></g>
+<g transform="translate(276,420)" class="ic"><circle r="12" fill="#4A86C5"/><text x="0" y="1" font-size="13" font-weight="700" style="fill:#fff">3</text></g>
+<g transform="translate(526,290)" class="ic"><circle r="12" fill="#4A86C5"/><text x="0" y="1" font-size="13" font-weight="700" style="fill:#fff">4</text></g>
+</svg>
